@@ -1,2 +1,25 @@
-# boAt-landing-page
-Experience the epitome of wireless audio with boAt's stylish and high-performance wireless earphones. Elevate your lifestyle with a perfect blend of sound quality and trendy design. Explore the product range and discover the freedom of wireless sound like never before.
+boAt Wireless Earphone Landing Page
+Overview
+This repository contains the code for a product landing page dedicated to boAt wireless earphones. The page is designed to showcase various boAt earphone models, provide information about their features, and encourage users to explore and purchase the products.
+
+Features
+Responsive design for optimal viewing on different devices.
+Interactive navigation bar with smooth scrolling to page sections.
+Engaging visuals, including a video banner for a dynamic user experience.
+Product section highlighting key features, pricing, and view buttons for each product.
+Lightbox functionality for an enhanced view of product details.
+Usage
+Clone the repository to your local machine.
+Open the index.html file in a web browser to view the landing page.
+Feel free to customize and use this code as a template for your own product landing pages.
+
+Contributors
+Amrita Sinha
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+Font Awesome for icon integration.
+Google Fonts for typography styling.
+
+© 2023 Amrita Sinha. All rights reserved.
